@@ -2,3 +2,4 @@ hello world
 add second line
 add third line
 add another line
+welcome to study git lecture
